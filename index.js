@@ -24,3 +24,8 @@ function tableFlavors(arrayOfFlavors) {
 
 console.log(tableFlavors(arrayOfFlavors));
 console.table(tableFlavors(arrayOfFlavors));
+
+//testing with different inputs
+//sherbert,rockyroad,cookies&cream,vanilla,chocolate,strawberry
+//bannana,bannana,bannana,bannana,cow,cow,cow,cow,cookies,cookies,cookies,cookies
+//chocolate,chocolate,chocolate,chocolate,chocolate,vanilla,vanilla,vanilla,vanilla,vanilla,vanilla,rockyroad,rockyroad,rockyroad,rockyroad,rockyroad,rockyroad,rockyroad,rockyroad
